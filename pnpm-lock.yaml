@@ -247,7 +247,7 @@ importers:
       eslint-plugin-react-hooks: ^4.2.0
       stylelint: ^13.2.1
       stylelint-config-css-modules: ^2.2.0
-      stylelint-config-prettier: ^8.0.1
+      stylelint-config-prettier: ^9.0.0
       stylelint-config-rational-order: ^0.1.2
       stylelint-config-standard: ^20.0.0
       stylelint-declaration-block-no-ignored-properties: ^2.1.0
@@ -265,7 +265,7 @@ importers:
       eslint-plugin-react-hooks: 4.3.0_eslint@7.32.0
       stylelint: 13.13.1
       stylelint-config-css-modules: 2.3.0_stylelint@13.13.1
-      stylelint-config-prettier: 8.0.2_stylelint@13.13.1
+      stylelint-config-prettier: 9.0.3_stylelint@13.13.1
       stylelint-config-rational-order: 0.1.2
       stylelint-config-standard: 20.0.0_stylelint@13.13.1
       stylelint-declaration-block-no-ignored-properties: 2.5.0_stylelint@13.13.1
@@ -12498,9 +12498,9 @@ packages:
       stylelint: 13.13.1
     dev: false
 
-  /stylelint-config-prettier/8.0.2_stylelint@13.13.1:
-    resolution: {integrity: sha512-TN1l93iVTXpF9NJstlvP7nOu9zY2k+mN0NSFQ/VEGz15ZIP9ohdDZTtCWHs5LjctAhSAzaILULGbgiM0ItId3A==}
-    engines: {node: '>= 10', npm: '>= 5'}
+  /stylelint-config-prettier/9.0.3_stylelint@13.13.1:
+    resolution: {integrity: sha512-5n9gUDp/n5tTMCq1GLqSpA30w2sqWITSSEiAWQlpxkKGAUbjcemQ0nbkRvRUa0B1LgD3+hCvdL7B1eTxy1QHJg==}
+    engines: {node: '>= 12'}
     hasBin: true
     peerDependencies:
       stylelint: '>=11.0.0'
